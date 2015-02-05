@@ -1,5 +1,5 @@
 === Marketo Connector for Wordpress - Public ===
-Contributors: barudo, fabcapo
+Contributors: HooshMarketing
 Donate Link: http://hooshmarketing.com/
 Tags: Marketo, Marketo munchkin, Marketo forms, form submission to marketo, lead update, lead capture
 Requires at least: 3.0.1
