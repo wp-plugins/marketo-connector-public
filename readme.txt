@@ -62,10 +62,6 @@ A detailed discussion on how to get these values are found <a href="http://hoosh
 
 1. The Administration Panel for Marketo Connector Public
 2. Shortcode generator on Posts, Page and Custom Posts to easily add shortcodes to articles and pages.
-3. Administration Panel for Marketo Connector for Wordpress. Available on the premium edition only.
-4. Blog Update Panel of Marketo Connector. This is where we set options on what the plugin does whenever a new post is made.Leads in marketo may receive emails informing them that a new post is made. Available on the premium edition only.
-5. Whether to sync subscribers logging in to the Site or not. Available on the premium edition only.
-6. The premium version comes with its own custom post generator to show to users (offers) based on Lead Information.   
 
 == Changelog ==
 
